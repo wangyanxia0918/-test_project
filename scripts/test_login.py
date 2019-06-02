@@ -10,7 +10,7 @@ class TestLogin:
 
     def test_login03(self):
         print("xia")
-        assert 0
+        assert 1
 
     def test_login04(self):
         print("09")
@@ -18,5 +18,5 @@ class TestLogin:
 
     def test_login05(self):
         print("18")
-        assert 0
+        assert 1
 
